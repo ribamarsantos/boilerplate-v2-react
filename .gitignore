@@ -1,0 +1,11 @@
+node_modules/
+*/.DS_Store
+yarn-error.log
+.env
+.DS_Store
+*/__snapshots__
+*.snap
+public/dist
+.env.test
+.env.development
+
